@@ -1,5 +1,7 @@
 @charset "utf.8";
- 
+
+/*Todavía le falta un poco al css. No recuerdo bien si fue con vos que vimos el tema de medidas fijas en height y width, así que por las dudas vuelvo a decirlo pero si ya sabes no me des bola. En general intentá evitar usar medidas fijas porque suelen variar cómo se ven de una pantalla a otra, es preferible arreglarlo con padding, margin o usar porcentajes o vh en vez de px. Vh significa viewport, altura del dispositivo, osea que vendría a ajustarse de acuerdo a cada pantalla. */
+
 .botonera {
     width: 1400px;
     height: 50px;
@@ -62,6 +64,7 @@ h1 {
 .b{
     background-color: rgb(6, 248, 6);
     width: 400px;
+ /*En vez de usar width para ajustar la caja de texto, te convendría usar max-width*/
     height: 400px;
 }
 
