@@ -1,3 +1,7 @@
 # Sofiscur
-Sofiscur
-tp
+#TP1
+En la creación de mi página web trabajé con Visual Studio y al mismo tiempo visualizando mi trabajo en el inspector de Google (mi pantalla es de 902px x 447px). Comencé con el head explicandole al sistema que voy a hablar en castellano diciendole <meta charset="utf-8"/> y nomenclé el trabajo con mi nombre. Más tarde realicé y vinculé una hoja de estilos css. La creación del favicon me pareció interesante, es nuestra pequeña decoración que deja una marca de identidad en la web.
+Más tarde segui con el body en donde se desarrolla todo el trabajo que podemos visualizar en la web. En el header desarrollé el nav con distintas secciones de la página a las que fui vinculando para que cuando toques el botón te dirija directamente a esa sección. Además en la hoja de estilos le coloqué a:hover para que al pararse arriba con el cursor cambie el color y el tamaño. La página por mis decisiones de estilo y colores tiene una temática de los años 2000 combinandolo con mis colores favoritos. Luego en el main comencé hablando un poco de mi, inserté una foto y un titulo(h1), subtitulo(h2) y el texto (p),y abajo realicé tres flexs con algunos datos mios. 
+Finalmente el footer decidí usarlo para poner mis datos de contacto. Lo desarrollé con un flex, aunque se perfectamente que también podia utilizar un contenedor normal como en la botonera pero quería incluir otra box.
+En la hoja de estilos me encargué de darle un sentido similar a la temática y darle forma a la página web.
+Fue muy lindo trabajo, con más tiempo se que le hubiese puesto muchas más cosas. No sabía que me interesaba el diseño web y ahora ya estoy queriendo hacer la materia optativa que continua esta materia y saber más de todo este mundo. De verdad me gustó mucho.
